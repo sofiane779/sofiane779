@@ -5,7 +5,8 @@
 > and Google-certified in cybersecurity, so I ship AI integrations that are secure by default.
 
 J'intègre Claude dans des produits réels : équipes d'agents, serveurs **MCP**, assistants qui
-répondent à partir de documents en citant leurs sources.
+répondent à partir de documents en citant leurs sources — **8 certifications Anthropic** à
+l'appui.
 Développeur fullstack certifié, je viens aussi de la **cybersécurité** — ce qui change la façon
 dont je construis : pas de clé dans le code, entrées validées, données personnelles réduites au
 minimum.
@@ -45,6 +46,21 @@ ci-dessous.
 **Sécurité** — Splunk · Microsoft Sentinel · Sysmon · Suricata · Wireshark · VirusTotal · analyse de logs · Linux
 
 ## 🎓 Certifications
+
+### Anthropic — 8 certifications
+
+| Certification | Obtenue le |
+|---|---|
+| Claude 101 | 14/06/2026 |
+| Claude Code 101 | 01/07/2026 |
+| Claude Platform 101 | 29/10/2026 |
+| Claude Code in action | 29/10/2026 |
+| Introduction to Claude Cowork | 29/10/2026 |
+| AI Fluency for Small Businesses | 29/10/2026 |
+| AI Fluency: Framework and foundations | 31/10/2026 |
+| AI capabilities and limitations | 10/11/2026 |
+
+### Développement & sécurité
 
 ![Développeur Full Stack](https://img.shields.io/badge/-D%C3%A9veloppeur%20Full%20Stack%20professionnel-6236FF?style=for-the-badge&logo=buffer&logoColor=white)
 ![Google Prompting Essentials](https://img.shields.io/badge/-Google%20Prompting%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)
