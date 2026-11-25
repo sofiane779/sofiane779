@@ -20,7 +20,7 @@ Disponible en freelance pour des missions d'intégration IA.
 |---|---|
 | **[claude-code-agent-team](https://github.com/sofiane779/claude-code-agent-team)** | Une équipe de 7 agents Claude Code — chef de projet, UX, frontend, chatbot, QA, relecture, déploiement — qui transforme un brief client en site testé et relu. |
 | **[mcp-entreprises-fr](https://github.com/sofiane779/mcp-entreprises-fr)** | Un serveur MCP qui permet à Claude de vérifier n'importe quelle entreprise française via l'API publique de l'État. TypeScript strict, 48 tests hors ligne, sans clé d'API. |
-| **assistant-docs-cabinet** *(en cours)* | Un assistant qui répond uniquement à partir des documents fournis, en citant le passage utilisé — et qui dit clairement quand l'information n'y est pas. |
+| **[assistant-docs-cabinet](https://github.com/sofiane779/assistant-docs-cabinet)** | Un assistant qui répond uniquement à partir des documents fournis, en citant le passage exact — et qui dit clairement quand l'information n'y est pas. Next.js, 40 tests hors ligne. |
 
 ## 🔐 Ce que la cybersécurité apporte à mes intégrations IA
 
