@@ -47,7 +47,7 @@ ci-dessous.
 
 ## 🎓 Certifications
 
-**Anthropic** — 8 certifications, de juin à novembre 2026
+**Anthropic** — 8 certificats Anthropic Academy, de juin à novembre 2026
 
 ![Claude 101](https://img.shields.io/badge/-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code 101](https://img.shields.io/badge/-Claude%20Code%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
