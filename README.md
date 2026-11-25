@@ -43,7 +43,7 @@ ci-dessous.
 
 **Développement** — TypeScript · Node.js · Python · PHP · React / Next.js · Tailwind CSS · tests (Vitest, Playwright)
 
-**Sécurité** — Splunk · Microsoft Sentinel · Sysmon · Suricata · Wireshark · VirusTotal · analyse de logs · Linux
+**Sécurité** — Splunk · Sysmon · Wireshark · VirusTotal · analyse de logs · Linux
 
 ## 🎓 Certifications
 
