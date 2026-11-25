@@ -47,20 +47,18 @@ ci-dessous.
 
 ## 🎓 Certifications
 
-### Anthropic — 8 certifications
+**Anthropic** — 8 certifications, de juin à novembre 2026
 
-| Certification | Obtenue le |
-|---|---|
-| Claude 101 | 14/06/2026 |
-| Claude Code 101 | 01/07/2026 |
-| Claude Platform 101 | 29/10/2026 |
-| Claude Code in action | 29/10/2026 |
-| Introduction to Claude Cowork | 29/10/2026 |
-| AI Fluency for Small Businesses | 29/10/2026 |
-| AI Fluency: Framework and foundations | 31/10/2026 |
-| AI capabilities and limitations | 10/11/2026 |
+![Claude 101](https://img.shields.io/badge/-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code 101](https://img.shields.io/badge/-Claude%20Code%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Platform 101](https://img.shields.io/badge/-Claude%20Platform%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code in action](https://img.shields.io/badge/-Claude%20Code%20in%20action-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Introduction to Claude Cowork](https://img.shields.io/badge/-Claude%20Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Fluency for Small Businesses](https://img.shields.io/badge/-AI%20Fluency%20for%20Small%20Businesses-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Fluency Framework and foundations](https://img.shields.io/badge/-AI%20Fluency%3A%20Framework%20%26%20foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI capabilities and limitations](https://img.shields.io/badge/-AI%20capabilities%20%26%20limitations-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### Développement & sécurité
+**Développement & sécurité**
 
 ![Développeur Full Stack](https://img.shields.io/badge/-D%C3%A9veloppeur%20Full%20Stack%20professionnel-6236FF?style=for-the-badge&logo=buffer&logoColor=white)
 ![Google Prompting Essentials](https://img.shields.io/badge/-Google%20Prompting%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)
